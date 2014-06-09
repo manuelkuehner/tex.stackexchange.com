@@ -1,3 +1,6 @@
+% see
+% http://tex.stackexchange.com/questions/183882/drawing-konigsberg-landscape-showing-the-bridges/183941#183941
+% ---
                                                               
 \documentclass{article}
 \usepackage[utf8]{inputenc}
